@@ -1,0 +1,11 @@
+insert into facturacion.producto(nombre_producto, precio_compra, precio_venta, existencia)values("Coca cola", 700, 900, 30);
+insert into facturacion.producto(nombre_producto, precio_compra, precio_venta, existencia)values("Arroz", 900, 1200, 100);
+insert into facturacion.producto(nombre_producto, precio_compra, precio_venta, existencia)values("Fanta", 600, 800, 60);
+insert into facturacion.producto(nombre_producto, precio_compra, precio_venta, existencia)values("Cafe", 500, 700, 230);
+insert into facturacion.producto(nombre_producto, precio_compra, precio_venta, existencia)values("Sprite","400","500","10");
+insert into facturacion.producto(nombre_producto, precio_compra, precio_venta, existencia)values("Orange","600","800","100");
+insert into facturacion.producto(nombre_producto, precio_compra, precio_venta, existencia)values("Bilz","400","600","100");
+insert into facturacion.producto(nombre_producto, precio_compra, precio_venta, existencia)values("Pap","500","700",	"100");
+insert into facturacion.producto(nombre_producto, precio_compra, precio_venta, existencia)values("7Up","600","800",	"100");
+insert into facturacion.producto(nombre_producto, precio_compra, precio_venta, existencia)values("Yupi"	,"700","600","60");
+insert into facturacion.producto(nombre_producto, precio_compra, precio_venta, existencia)values("Kapo","400","600","10");
